@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "sign-out-app",
-    "slug": "sign-out-app",
+    "name": "gitpod-expo-template",
+    "slug": "gitpod-expo-template",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

@@ -9,12 +9,11 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
-.idea/
 .vscode/
 
 # macOS
 .DS_Store
-sign-out-app.code-workspace
+gitpod-expo.template.code-workspace
 .vscode/extensions.json
 
 # CocoaPods
